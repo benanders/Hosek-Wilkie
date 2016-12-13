@@ -1,0 +1,6 @@
+[package]
+name = "skylight"
+version = "0.1.0"
+authors = ["Ben Anderson <gravityscore@gmail.com>"]
+
+[dependencies]
