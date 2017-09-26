@@ -1,6 +1,9 @@
 [package]
-name = "skylight"
+name = "sky"
 version = "0.1.0"
 authors = ["Ben Anderson <gravityscore@gmail.com>"]
 
 [dependencies]
+gl = "*"
+glutin = "*"
+cgmath = "*"
